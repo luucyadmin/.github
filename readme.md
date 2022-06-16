@@ -1,7 +1,7 @@
 # LUUCY 
 As a digital 3D twin, LUUCY offers an extensive and daily growing collection of information, representations and simulations for spatial and real estate development in Switzerland.
 
-[Read More on www.luucy.ch](https://www.luucy.ch)
+[Read more about our platform on www.luucy.ch](https://www.luucy.ch)
 
 ## Plugins
 We offer developers to create their own plugins.

@@ -7,7 +7,7 @@ As a digital 3D twin, LUUCY offers an extensive and daily growing collection of 
 We offer a extensive SDK for developers to create custom plugins. Go to [installation and getting started guide](https://github.com/luucyadmin/luucy-cli) to get started.
 
 Some of our plugins are open source and we published them on here for you to get going with your own plugin!
-- [Compare Variants](https://github.com/luucyadmin/plugin-data-variants)
-- [Camera Controls](https://github.com/luucyadmin/plugin-camera-control)
-- [Heatwatt Heating Cost Calculator](https://github.com/luucyadmin/plugin-heatwatt-cost-calculator)
-- [CSV Marker Importer](https://github.com/luucyadmin/plugin-csv-marker-importer)
+- [Building Metrics](https://github.com/luucyadmin/app-building-metrics)
+- [My Camera Views](https://github.com/luucyadmin/app-my-camera-views)
+- [Heatwatt Heating Cost Calculator](https://github.com/luucyadmin/app-heatwatt)
+- [CSV Marker Importer](https://github.com/luucyadmin/app-csv-marker-importer)
